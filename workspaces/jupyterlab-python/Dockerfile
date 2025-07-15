@@ -1,5 +1,5 @@
 FROM quay.io/jupyter/minimal-notebook:2025-05-30
-ARG CACHEBUST=2025-05-15-14-16-41
+ARG CACHEBUST=2025-07-15-14-08-13
 
 ENV XDG_DATA_HOME=/tmp/local/share
 ENV XDG_CACHE_HOME=/tmp/cache
